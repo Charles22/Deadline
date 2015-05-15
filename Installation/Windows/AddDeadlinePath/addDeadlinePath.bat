@@ -1,0 +1,1 @@
+REG ADD "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment" /v "DEADLINE_PATH" /t "REG_SZ" /d "C:\Program Files\Thinkbox\Deadline7\bin"
